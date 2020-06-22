@@ -3,3 +3,11 @@
 	flex-flow:row wrap;
 	justify-content:space-around;
 }
+
+body{
+	font-family: 'Noto Sans TC', sans-serif;
+}
+
+p{
+	font-size:1.5rem;
+}
